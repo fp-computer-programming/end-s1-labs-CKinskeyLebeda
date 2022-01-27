@@ -1,7 +1,7 @@
 <h1 align="center">
     Fairfield College Preparatory School<br>
     Computer Programming - Mrs. Kinskey-Lebeda <br>
-    End S2 labs
+    End S1 labs
 </h1>
 
 <h2 align="center">Due before 8:30 AM on 1/25 (15 pts.)</h2>
